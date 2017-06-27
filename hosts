@@ -1,0 +1,7 @@
+[frontend]
+
+172.16.10.242 ssh_private_key_file=/Projeto-Lucas-2606.pem
+
+[backend]
+
+172.16.10.211 ssh_private_key_file=/Projeto-Lucas-2606.pem
